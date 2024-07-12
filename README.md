@@ -1,1 +1,1 @@
-# Webshop-TBZ.github.io
+# TBZWebshop.github.io
